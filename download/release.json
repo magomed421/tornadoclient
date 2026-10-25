@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "minecraft": "1.21.11",
+  "file": "download/TornadoClient.zip",
   "size": 14343130,
   "sha256": "2be6114816fad49ed19df46519c848bcc4457332996849ae5464a29b642b819e",
   "date": "2026-10-25",
